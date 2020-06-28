@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker build -t wuykimpang/rl-notes:latest .
